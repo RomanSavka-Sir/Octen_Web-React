@@ -1,0 +1,13 @@
+. even {
+    background-color: aquamarine;
+    color: rosybrown;
+    border: 3px solid green;
+    width: 300px;
+}
+
+.odd {
+    background-color: aqua;
+    color: rosybrown;
+    border: 3px solid green;
+    width: 300px;
+}
